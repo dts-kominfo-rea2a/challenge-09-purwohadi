@@ -5,8 +5,8 @@ const Header = () => {
     return (
         <>
             <div>
-                <h1>Call A Friend</h1>
-                <p>Your Friendly Contact App</p>
+                <h1>Call a Friend</h1>
+                <p>your friendly contact app</p>
                 <hr></hr>
             </div>
         </>
